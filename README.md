@@ -1,3 +1,5 @@
+No part of this code may be copied, distributed, or used without explicit permission.
+
 # CTC-2024-Derivatives
 
 `data` - folder containing options data, s&p underlying prices, and a sample csv output of what your strategy should generate
